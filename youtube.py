@@ -51,7 +51,7 @@ async def loading():
 		print("=" * 10)
 		titulo_ = choice(titulo_1)
 		descricao_ = choice(descricao_1)
-		keys = "Lula ladrão, Lula13, Lula presidente"
+		keys = "política, a política"
 #self,titulo,caminho_path,descricao,keys_words
 		await Bot.postar(titulo = titulo_,caminho_path= video,descricao= descricao_,keys_words= keys)
 
