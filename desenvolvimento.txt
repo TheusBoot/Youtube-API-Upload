@@ -1,0 +1,9 @@
+
+Desenvolvimento API-Youtube
+
+
+1 - invocar a API  |  Bot = youtubeBot()
+2 - abrir a página |  Bot.start()
+3 - fazer o login  |  Bot.login()
+4 - navegar até o Upload | Bot.navegar()
+5 - postar vídeo   | Bot.navegar()
